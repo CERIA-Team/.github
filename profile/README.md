@@ -1,4 +1,4 @@
-<h1 align="left">Hi, We are CERIA Team! 👋</h1>
+![cloud_run](https://github.com/CERIA-Team/.github/assets/100180311/63137a89-1a75-40f0-8280-155a4d88b830)<h1 align="left">Hi, We are CERIA Team! 👋</h1>
 
 ###
 
@@ -49,20 +49,6 @@
 
 ###
 
-<h3 align="center">Machine Learning Tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
 <h3 align="center">Cloud Computing Tools</h3>
 
 ###
@@ -70,7 +56,37 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
+  <img src="https://github.com/CERIA-Team/.github/assets/100180311/66436ee9-3f55-421c-9e6a-b462a0ac3dec" height="40" alt="cloud run logo"  />
+  <img width="12" />
+  <img src="https://github.com/CERIA-Team/.github/assets/100180311/25cc24c1-2bd2-4f75-ac46-76fcb7dd9541" height="40" alt="cloud SQL logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="node.js logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express.js logo"  />
+</div>
+
+###
+
+<h3 align="center">Machine Learning Tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  />
+  <img width="12" />
+  <img src="https://github.com/CERIA-Team/.github/assets/100180311/8e123480-ff62-4791-a174-417e306d4b27" height="40" alt="colab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h3 align="center">Machine Learning Inference</h3>
+
+###
+
+<div align="center">
+  <img src="https://github.com/CERIA-Team/.github/assets/100180311/657dac55-24c6-45c0-afba-d4651c7b8e18" alt="Ceria ML inference"  />
 </div>
